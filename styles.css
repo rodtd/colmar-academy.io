@@ -1,0 +1,36 @@
+
+
+  header {  
+    display: inline-flexbox;
+}
+
+.logo {
+    width: 15 em;
+    
+}
+
+
+.nav {
+    display:inline;
+
+}
+
+.nav-menu {
+    list-style-type: none;
+    display: inline;
+    text-align: left;
+}
+.nav-menu li {
+    display: inline;
+}
+
+.banner{
+    display: inline;
+
+}
+.lorem {
+
+}
+.button {
+
+}
